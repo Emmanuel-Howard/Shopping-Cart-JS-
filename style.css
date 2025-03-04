@@ -5,13 +5,14 @@ body{
     text-align:center;
 }
 #shoppingBtn{
-    font-size: 30px;
-    border-radius: 20px;
+    font-size: 20px;
+    border-radius: 10px;
     text-align: center;
     margin-top: 30px;
+    background-color:rgb(159, 228, 159);
 }
 #shoppingBtn:hover{
-    background-color: aqua;
+    background-color: rgb(105, 227, 105);
     cursor:pointer;
 }
 #shoppingInput{
@@ -22,5 +23,6 @@ body{
     border: 2px solid black;
     height: 200px;
     width:400px;
+    border-radius: 10px;
     background-color: rgb(105, 227, 105);
 }
