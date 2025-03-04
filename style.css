@@ -21,8 +21,11 @@ body{
 #mainDiv{
     text-align: center;
     border: 2px solid black;
-    height: 200px;
+    height: 250px;
     width:400px;
     border-radius: 10px;
     background-color: rgb(105, 227, 105);
+}
+.checkBox{
+    text-align: center;
 }
