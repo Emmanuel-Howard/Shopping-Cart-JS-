@@ -2,13 +2,17 @@ body{
     background-color: rgb(255, 255, 255);
 }
 #h1{
-    color: red;
     text-align:center;
 }
 #shoppingBtn{
     font-size: 30px;
     border-radius: 20px;
     text-align: center;
+    margin-top: 30px;
+}
+#shoppingBtn:hover{
+    background-color: aqua;
+    cursor:pointer;
 }
 #shoppingInput{
     text-align: center;
@@ -16,5 +20,7 @@ body{
 #mainDiv{
     text-align: center;
     border: 2px solid black;
-    height: 100px;
+    height: 200px;
+    width:400px;
+    background-color: rgb(105, 227, 105);
 }
